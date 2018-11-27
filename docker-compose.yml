@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  web:
+    build: .
+    image: reactql-frontend
+    command: npm run production
+    volumes:
+      - .:/src
+      - /src/node_modules
+    ports:
+      - "3000:3000"
+
