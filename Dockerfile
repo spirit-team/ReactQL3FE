@@ -3,7 +3,7 @@ FROM node:10.11-alpine
 ENV NPM_CONFIG_LOGLEVEL notice
 
 # Install dependencies
-RUN apk add --no-cache curl
+RUN apk add --no-cache curl openssl ca-certificates
 
 # Install NPM packages
 WORKDIR /app
