@@ -98,6 +98,7 @@
     "node-gyp": "^3.8.0",
     "ora": "^3.0.0",
     "passport-saml": "^1.0.0",
+    "passport-saml-encrypted": "^0.1.8",
     "react": "^16.5.2",
     "react-addons-css-transition-group": "^15.6.2",
     "react-addons-transition-group": "^15.6.2",
