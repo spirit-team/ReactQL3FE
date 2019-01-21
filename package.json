@@ -81,7 +81,7 @@
     "apollo-utilities": "^1.0.21",
     "chalk": "^2.4.1",
     "cross-env": "^5.2.0",
-    "cross-fetch": "^2.2.2",
+    "cross-fetch": "^2.2.3",
     "dotenv": "^6.1.0",
     "graphql": "^14.0.2",
     "graphql-tag": "^2.10.0",
